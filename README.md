@@ -1,2 +1,2 @@
-# githubcom
-# include<stdio.h>
+# github
+this is for learning purpose
